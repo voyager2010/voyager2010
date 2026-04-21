@@ -1,5 +1,5 @@
 
-# 🌸 Hi, I’m Sai Hole. 
+#  Hi, I’m Sai Hole. 
 
 <p align="center">
 
@@ -7,7 +7,7 @@
 
 </p>
 
-## 👩🏻‍💻 About Me  
+## 🧑🏾‍💻 About Me  
 I have recently completed my 10th exams and have started my journey in computer science.
 
 In the past 15 days, I have been actively learning web development and have already completed the basics of HTML, as well as Git and GitHub. I have also built my first project, which helped me understand how to apply my knowledge in a practical way.
@@ -19,14 +19,9 @@ I am looking forward to growing in the field of computer science and exploring o
 ## 📈 GitHub Stats  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=voyager2010)](https://git.io/streak-stats)
 
-## 🐍 Contribution Snake 
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=voyager2010&theme=github-compact&hide_border=true)
-
-
 ## 🌐 Let's Connect  
 
-  Linkedin Link= https://www.linkedin.com/in/voyager2010/
+ Linkedin Link= https://www.linkedin.com/in/voyager2010/
 
 Peerlist Link= https://peerlist.io/voyager2010
 
