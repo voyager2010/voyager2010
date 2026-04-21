@@ -1,6 +1,13 @@
 
-# Hi, I’m Sai Hole. 
+# 🌸 Hi, I’m Sai Hole. 
 
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=120"/>
+
+</p>
+
+## 👩🏻‍💻 About Me  
 I have recently completed my 10th exams and have started my journey in computer science.
 
 In the past 15 days, I have been actively learning web development and have already completed the basics of HTML, as well as Git and GitHub. I have also built my first project, which helped me understand how to apply my knowledge in a practical way.
@@ -9,6 +16,19 @@ I am passionate about learning new technologies and improving my skills every da
 
 I am looking forward to growing in the field of computer science and exploring opportunities to learn, build, and contribute.
 
-Linkedin Link- https://www.linkedin.com/in/voyager2010/
+## 📈 GitHub Stats  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=voyager2010)](https://git.io/streak-stats)
 
-Peerlist Link- https://peerlist.io/voyager2010
+## 🐍 Contribution Snake 
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=voyager2010&theme=github-compact&hide_border=true)
+
+
+## 🌐 Let's Connect  
+
+  Linkedin Link= https://www.linkedin.com/in/voyager2010/
+
+Peerlist Link= https://peerlist.io/voyager2010
+
+
+
